@@ -25,12 +25,12 @@ ul li {
     color: white;
     box-sizing: border-box;
     padding-top: 20px;
+    text-align: center;
 }
 
 ul li:last-child {
     float: right;
     background-color: green;
-    text-align: center;
 }
 
 ul li a {
