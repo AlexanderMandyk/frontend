@@ -91,6 +91,7 @@ div.textBlock {
 img.right {
     float: right;
     margin: 0 0 5px 15px;
+    width: 280px; height: 195px;
 }
 
 img.left {
